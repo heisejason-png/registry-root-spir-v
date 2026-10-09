@@ -7,3 +7,4 @@ This repository is used as a backing store for the web view of the registry
 at https://www.khronos.org/registry/SPIR-V/ . Commits to the main branch of
 Registry-Root-SPIR-V will be reflected in the web view.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
